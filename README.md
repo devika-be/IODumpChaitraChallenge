@@ -6,22 +6,22 @@ Starting from the Marathi New Year, Gudi Padwa, and running throughout the Chait
 ## Day 1:
 The task was to find the largest and smallest numbers out of the given 5
 
-# Day 2:
+## Day 2:
 Program to check whether the given character is vowel or consonant.💻🚀
 
-# Day 3:
+## Day 3:
 Program to find the area of a triangle, rectangle, and square.💻🚀
 
-# Day 4:
+## Day 4:
 Program to find volume of sphere and cylinder.💻🚀
 
-# Day 5:
+## Day 5:
 Program to print sum of first n numbers 👨‍💻
 
-# Day 6:
+## Day 6:
 Program to convert given temperature from Fahrenheit to Celsius.💻🚀
 
-# Day 7:
+## Day 7:
 Program to check whether the input received from user is prime or not.💻🚀
 
 Day 8:

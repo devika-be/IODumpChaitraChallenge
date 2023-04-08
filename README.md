@@ -24,11 +24,11 @@ Program to convert given temperature from Fahrenheit to Celsius.💻🚀
 ## Day 7:
 Program to check whether the input received from user is prime or not.💻🚀
 
-Day 8:
+##Day 8:
 Program to print multiplication table of a number using for loop💻🚀
 
-Day 9:
+##Day 9:
 Program to find factorial of given number.💻🚀
 
-Day 10:
+##Day 10:
 Accept the height of a person in cm and convert it to feet.💻🚀

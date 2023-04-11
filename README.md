@@ -36,3 +36,5 @@ Accept the height of a person in cm and convert it to feet.💻🚀
 ## Day11: 
 Program to find length of string without using inbuilt function.💻🚀
 
+## Day12: 
+Write a program to reverse the digit of given number.💻🚀

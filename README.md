@@ -41,3 +41,6 @@ Write a program to reverse the digit of given number.💻🚀
 
 ## Day13: 
 Write a program to find the Fibonacci series of n numbers using recursion.💻🚀
+
+## Day14: 
+Write a program to taking A and B as a user input, print the value of A^B using for loop.💻🚀

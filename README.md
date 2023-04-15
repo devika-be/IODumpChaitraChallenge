@@ -44,3 +44,8 @@ Write a program to find the Fibonacci series of n numbers using recursion.💻�
 
 ## Day14: 
 Write a program to taking A and B as a user input, print the value of A^B using for loop.💻🚀
+
+## Day15: 
+Write a program to check whether the given number is palindrome or not.💻🚀
+
+

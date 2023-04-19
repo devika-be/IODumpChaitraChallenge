@@ -51,3 +51,11 @@ Write a program to check whether the given number is palindrome or not.💻🚀
 ## Day16: 
 Write a Program to find the kth largest element of any random list.💻🚀
 
+## Day17: 
+Write a program to check whether s is a substring of a str or not.💻🚀
+
+## Day18: 
+Write a program to sort the elements in the list/array in ascending order.💻🚀
+
+
+

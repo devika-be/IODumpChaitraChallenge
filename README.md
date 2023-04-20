@@ -57,5 +57,6 @@ Write a program to check whether s is a substring of a str or not.💻🚀
 ## Day18: 
 Write a program to sort the elements in the list/array in ascending order.💻🚀
 
-
+## Day19:
+Take a character and print whether the character is uppercase or lowercase or number or special character.💻🚀
 

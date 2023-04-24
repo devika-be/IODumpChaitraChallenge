@@ -60,3 +60,5 @@ Write a program to sort the elements in the list/array in ascending order.💻�
 ## Day19:
 Take a character and print whether the character is uppercase or lowercase or number or special character.💻🚀
 
+## Day20: 
+Write a program to implement an algorithm to find the nth fibonacci number.💻🚀

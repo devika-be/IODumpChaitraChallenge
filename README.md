@@ -65,3 +65,6 @@ Write a program to implement an algorithm to find the nth fibonacci number.💻�
 
 ## Day21: 
 Implement a function to check if a given string contains a valid email address.💻🚀
+
+## Day22: 
+Write a program to find first non-repeating character in a string.💻🚀

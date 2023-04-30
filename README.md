@@ -69,5 +69,9 @@ Implement a function to check if a given string contains a valid email address.�
 ## Day22: 
 Write a program to find first non-repeating character in a string.💻🚀
 
-## Day23 : 
+## Day23: 
 Implement a function that takes two integers as input and returns their greatest common divisor (GCD).💻🚀
+
+## Day24: 
+Write a program that takes a list of integers as input and returns a new list that contains only one element that appears more than once in the original list.💻🚀
+

@@ -75,3 +75,6 @@ Implement a function that takes two integers as input and returns their greatest
 ## Day24: 
 Write a program that takes a list of integers as input and returns a new list that contains only one element that appears more than once in the original list.💻🚀
 
+## Day26: 
+Implement a function that takes a string as a input and returns the minimum number of insertions required to make the string a palindrome.
+

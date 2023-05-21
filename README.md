@@ -79,5 +79,5 @@ Write a program that takes a list of integers as input and returns a new list th
 Write a program to taking median of two sorted Arrays of different sizes.💻🚀
 
 ## Day26: 
-Implement a function that takes a string as a input and returns the minimum number of insertions required to make the string a palindrome.
+Implement a function that takes a string as a input and returns the minimum number of insertions required to make the string a palindrome.💻🚀
 

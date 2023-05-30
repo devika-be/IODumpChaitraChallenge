@@ -4,7 +4,7 @@ Starting from the Marathi New Year, Gudi Padwa, and running throughout the Chait
 #iodumpchaitrachallenge
 
 ## Day 1:
-The task was to find the largest and smallest numbers out of the given 5
+The task was to find the largest and smallest numbers out of the given 5.💻🚀
 
 ## Day 2:
 Program to check whether the given character is vowel or consonant.💻🚀

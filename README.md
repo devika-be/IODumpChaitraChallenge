@@ -16,7 +16,7 @@ Program to find the area of a triangle, rectangle, and square.💻🚀
 Program to find volume of sphere and cylinder.💻🚀
 
 ## Day 5:
-Program to print sum of first n numbers 👨‍💻
+Program to print sum of first n numbers. 💻🚀
 
 ## Day 6:
 Program to convert given temperature from Fahrenheit to Celsius.💻🚀

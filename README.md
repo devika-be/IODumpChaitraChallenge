@@ -7,16 +7,16 @@ Starting from the Marathi New Year, Gudi Padwa, and running throughout the Chait
 The task was to find the largest and smallest numbers out of the given 5.💻🚀
 
 ## Day 2:
-Program to check whether the given character is vowel or consonant.💻🚀
+Program to check whether the given character is a vowel or consonant.💻🚀
 
 ## Day 3:
 Program to find the area of a triangle, rectangle, and square.💻🚀
 
 ## Day 4:
-Program to find volume of sphere and cylinder.💻🚀
+Program to find the volume of the sphere and cylinder.💻🚀
 
 ## Day 5:
-Program to print sum of first n numbers. 💻🚀
+Program to print the sum of the first n numbers. 💻🚀
 
 ## Day 6:
 Program to convert given temperature from Fahrenheit to Celsius.💻🚀
